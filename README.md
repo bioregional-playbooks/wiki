@@ -22,4 +22,8 @@ With growing health consciousness, environmental concern, and the pressing need 
 
 <figure><img src=".gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src=".gitbook/assets/millets-in-Odia.png" alt=""><figcaption><p>A brochure showing millet grain and panicle, labelled in Odia and English</p></figcaption></figure>
+
+
+
 Check out this 6 part webinar to [Know Millets](https://youtube.com/playlist?list=PLnZpIRzV27RTR7Lsmdsm4MtvXrm2gjpg6)
