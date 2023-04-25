@@ -2,7 +2,13 @@
 
 **Where to grow millet?**
 
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-04-25 234013.png" alt=""><figcaption><p>Reference: Supporting Millets in India: Policy Review and Suggestions for Action prepared by DHAN Foundation and WASSAN as a part of RESMISA. August 2012.</p></figcaption></figure>
 
+Most millets can be grown on low fertility soils. Some in acidic soils, some on saline soils. Millets such as Pearl millet can also be grown on sandy soils, as is done in Rajasthan. In fact, finger millet grows well in saline soils. Barnyard millet too thrives in problem soils, where other crops like rice, struggle to grow in such soils. Many of them are also grown to reclaim soils.
+
+Poor farmers especially in dryland India are owners of very poor lands. Much of the cultivable fallows and low fertility farms have been handed to them through the process of land reforms and the Jajamani system of Inam lands. The only crops that sustain agriculture and food security on these lands are millets.
+
+Reference: Millets: Future of Food & Farming by Millet Network of India, Deccan Development Society, and FIAN, India
 
 **Identify right geography, clusters**
 
