@@ -11,6 +11,7 @@
     * [Barnyard Millet](index/value-chain/production/barnyard-millet.md)
     * [Seed Production](index/value-chain/production/seed-production.md)
     * [Finger Millet](index/value-chain/production/finger-millet.md)
+    * [Foxtail Millet](index/value-chain/production/foxtail-millet.md)
   * [Storage](index/value-chain/storage/README.md)
     * [Pest Management](index/value-chain/storage/pest-management.md)
   * [Value Addition](index/value-chain/value-addition/README.md)
