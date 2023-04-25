@@ -1,9 +1,10 @@
 # Table of contents
 
-* [👋 Millets](README.md)
+* [Millets](README.md)
 
 ## Index
 
+* [Transportation](index/transportation.md)
 * [Value Chain](index/value-chain/README.md)
   * [Production](index/value-chain/production/README.md)
     * [Kodo Millet](index/value-chain/production/kodo-millet.md)

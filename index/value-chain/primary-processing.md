@@ -6,7 +6,14 @@ Indicators&#x20;
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-04-18 at 4.03.49 PM.png" alt=""><figcaption><p>Primary processing for foxtail millet, from  <a href="https://kmea.karnataka.gov.in/storage/pdf-files/Reports%20and%20other%20docs/MILLET%20PROCESSING%20PDF%20FINAL%20301220.pdf">https://kmea.karnataka.gov.in/storage/pdf-files/Reports%20and%20other%20docs/MILLET%20PROCESSING%20PDF%20FINAL%20301220.pdf</a></p></figcaption></figure>
 
+1. Harvesting & Productization
+2. Grading
+3. Technology diffusion
+4. Attention to minor millets
 
+
+
+Primary Processing
 
 
 
@@ -32,3 +39,8 @@ Indicators&#x20;
 
 <figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
+
+
+
+
+Short video series on millet processing [here](https://youtube.com/playlist?list=PLw4jroI0AKyC9avNj1fLKQc78UWAr8sVj) (by Dwiji Guru)
