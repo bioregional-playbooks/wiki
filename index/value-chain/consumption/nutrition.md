@@ -2,11 +2,11 @@
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-04-18 at 3.08.42 PM.png" alt=""><figcaption><p>From <a href="https://themillet.org/2016/09/13/glycemic-index-glycemic-load-and-the-changes-in-blood-sugar-levels/">https://themillet.org/2016/09/13/glycemic-index-glycemic-load-and-the-changes-in-blood-sugar-levels/</a></p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 
 
