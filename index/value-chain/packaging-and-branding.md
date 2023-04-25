@@ -17,3 +17,15 @@ The packaging and branding dimension captures
     * Organic certification of Millets\
 
 
+
+
+The packaging and branding dimension captures
+
+* &#x20;nutrition labelling&#x20;
+  * FSSAI standards
+* &#x20;support to FPOs/aggregators
+  * Millets Giveaway
+  * Promoted by IIMR
+  * PMFME scheme
+* &#x20;organic certification for better price realization and creation of logos for branding
+  * Organic certification of Millets

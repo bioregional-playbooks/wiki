@@ -1,6 +1,6 @@
 # Gender & Inclusion
 
-<figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
 The project is led by NRI’s Dr Apurba Shee, who is also exploring the extent to which working with collective millet-based enterprises can contribute to women having greater control over income and support their empowerment. Along with NRI, the project team includes Watershed Support Services and Activities Network (WASSAN), Nabakrushna Choudhury Centre for Development Studies (NCDS), Brunel University London, and University of Kent.
 
