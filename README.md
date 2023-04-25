@@ -20,7 +20,7 @@ With growing health consciousness, environmental concern, and the pressing need 
 
 <figure><img src=".gitbook/assets/millets-in-Odia-1024x576.png" alt=""><figcaption><p> v</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://www.youtube.com/watch?t=156s&v=sxa1bsZxSq4" %}
 A video to help you identify different types of millets (in English)

@@ -39,6 +39,9 @@
   * [Multistakeholder Partnership](index/mainstreaming/multistakeholder-partnership.md)
   * [Enabling Environment](index/mainstreaming/enabling-environment.md)
   * [Gender & Inclusion](index/mainstreaming/gender-and-inclusion.md)
+  * [Page 1](index/mainstreaming/page-1.md)
+  * [Page 2](index/mainstreaming/page-2.md)
+  * [Page 3](index/mainstreaming/page-3.md)
 * [Hotline - Directory](index/hotline-directory/README.md)
   * [Seed Banks](index/hotline-directory/seed-banks.md)
   * [Machine Vendors](index/hotline-directory/machine-vendors.md)
@@ -46,3 +49,7 @@
   * [Enterprises](index/hotline-directory/enterprises.md)
 
 ## mainstreaming
+
+***
+
+* [Success Stories](success-stories.md)

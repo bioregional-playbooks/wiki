@@ -1,6 +1,6 @@
 # Snacks
 
-![](<../../../../.gitbook/assets/image (52).png>)
+![](<../../../../.gitbook/assets/image (54).png>)
 
 <div>
 
