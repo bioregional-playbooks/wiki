@@ -2,11 +2,23 @@
 
 **Where to grow millet?**
 
-How to identify the millet? Local names
+
 
 **Identify right geography, clusters**
 
+\<context for why geography matters>
+
 \<insert a table with parameters>
+
+\<Map the favourable growing conditions and consumption patterns>
+
+**How to identify the millet?**&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
+
+
 
 
 

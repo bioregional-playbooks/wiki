@@ -18,11 +18,9 @@ In India, some millet or the other continues to be a significant (but fast erodi
 
 With growing health consciousness, environmental concern, and the pressing need for updating our food systems to survive climate change, millets, probably the earliest of cereal grains that humans started domesticating, are making a comeback.
 
-<figure><img src=".gitbook/assets/millets-in-Odia-1024x576.png" alt=""><figcaption><p>Src:<a href="https://milletadvisor.com/millets-name-in-different-languages/">https://milletadvisor.com/millets-name-in-different-languages/</a></p></figcaption></figure>
+<figure><img src=".gitbook/assets/millets-in-Odia-1024x576.png" alt=""><figcaption><p> v</p></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src=".gitbook/assets/millets-in-Odia.png" alt=""><figcaption><p>A brochure showing millet grain and panicle, labelled in Odia and English</p></figcaption></figure>
 
 {% embed url="https://www.youtube.com/watch?t=156s&v=sxa1bsZxSq4" %}
 A video to help you identify different types of millets (in English)
