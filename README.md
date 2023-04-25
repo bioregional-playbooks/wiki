@@ -24,6 +24,8 @@ With growing health consciousness, environmental concern, and the pressing need 
 
 <figure><img src=".gitbook/assets/millets-in-Odia.png" alt=""><figcaption><p>A brochure showing millet grain and panicle, labelled in Odia and English</p></figcaption></figure>
 
+{% embed url="https://www.youtube.com/watch?t=156s&v=sxa1bsZxSq4" %}
+A video to help you identify different types of millets (in English)
+{% endembed %}
 
-
-Check out this 6 part webinar to [Know Millets](https://youtube.com/playlist?list=PLnZpIRzV27RTR7Lsmdsm4MtvXrm2gjpg6)
+Check out this 6 part webinar to [Know more about millets](https://youtube.com/playlist?list=PLnZpIRzV27RTR7Lsmdsm4MtvXrm2gjpg6)&#x20;
