@@ -1,5 +1,47 @@
 # Production
 
+**Where to grow millet?**
+
+How to identify the millet? Local names
+
+**Identify right geography, clusters**
+
+\<insert a table with parameters>
+
+
+
+**How to promote millets**
+
+What was the crop cycle 50/30/20 years back ?&#x20;
+
+Millets has previously always been grown with other crops. It has never been grown as a mono-crop.&#x20;
+
+Crop systems \
+\- bajra\
+\- at least one pulse (urad, moong\_\
+\- oil seeds\
+\- some crops which fix nitrogen\
+\
+Traditional crop systems&#x20;
+
+
+
+2 type of millets
+
+* rice based millets (which you need to mill)&#x20;
+* the other&#x20;
+
+&#x20;The processing is different for the two kinds of millets\
+
+
+
+
+
+
+
+
+
+
 Indicators
 
 1. Adoption of improved agronomic practices for enhanced productivity
