@@ -19,6 +19,7 @@
     * [Foxtail Millet](index/value-chain/production/foxtail-millet.md)
       * [Seed Production](index/value-chain/production/foxtail-millet/seed-production.md)
     * [Little Millet](index/value-chain/production/little-millet.md)
+    * [Sorghum Millet](index/value-chain/production/sorghum-millet.md)
   * [Seed Production](index/value-chain/production/seed-production.md)
   * [Storage](index/value-chain/storage/README.md)
     * [Pest Management](index/value-chain/storage/pest-management.md)
