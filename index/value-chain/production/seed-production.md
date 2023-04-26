@@ -4,7 +4,8 @@
 
 <figure><img src="../../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
-Seed Conditioning \
+#### Seed Conditioning&#x20;
+
 The process of removing unwanted materials such as trash, weeds, leaves, other crop seeds and insects etc from a seed lot along with overall improvement of seed quality, is known as seed conditioning or seed processing. It is the complete procedure which utilized all the technologies such as drying, threshing, pre-cleaning, cleaning, size grading, treating, quality testing, packaging and labeling in making high quality seed of improved varieties available to the farmers with minimum adulteration. Seed conditioning assure maximum quality seed as if seed is not conditioned and handled properly, all efforts of a plant breeder in varietal development and seed production can be lost.&#x20;
 
 The ultimate goal of seed conditioning is to obtain the maximum percentage of pure crop seed with maximum germination potential, thereby seed enhancement. Seeds can be separated by mechanical means only if they differ in some physical characteristics such as size (length, width, thickness), shape, weight/density, Surface texture (rough, smooth, pointed) surface color and also affinity for specific liquids and electrical properties etc. that can be detected by a mechanical or electrical process.&#x20;
