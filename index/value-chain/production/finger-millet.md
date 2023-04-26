@@ -1,5 +1,7 @@
 # Finger Millet
 
+Finger millet or Ragi is widely grown in hilly and rainfed areas. It is a tropical crop can be grown to an altitude of 2100 metres. (Reference: Seed Production Techniques for Cereals and Millets by CIKS and RRAN. December 2013.)
+
 Finger millet (Eleusine coracana L.)
 
 Common name: Ragi Vernacular names: Ragi, Mandika, Marwah, Mandua (Hindi), Nagli, Nachni (Marathi), Ragi (Kannada), Ragulu, Chodi (Telugu), Keppai, Kelvaragu (Tamil), Marwa (Bengali), Nagli, Bavto (Gujrati), Mandia (Oriya), Mandhuka, Mandhal (Punjabi)
