@@ -2,6 +2,8 @@
 
 Kodo millet (Paspalum Scrobiculatum L.)
 
+This coarse millet is highly resistant to drought and can also be cultivated in the areas with 400 - 500 mm annual rainfall. It is grown in gravelly and stony upland poor soils to loamy soils. (Rererence: Seed Production Techniques for Cereals and Millets by CIKS and RRAN. December 2013)
+
 Varieties A number of varieties with high yield potential have been released for different states. The list of latest and popular varieties recommended for different states are given below
 
 **Kodo millet State Varieties Madhya Pradesh**

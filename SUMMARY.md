@@ -7,7 +7,7 @@
 * [Transportation](index/transportation.md)
 * [Value Chain](index/value-chain/README.md)
   * [Production](index/value-chain/production/README.md)
-    * [Kodo Millet](index/value-chain/production/kodo-millet/README.md)
+    * [Kodo Millet](index/value-chain/production/kodo-millet.md)
       * [Seed Production](index/value-chain/production/kodo-millet/seed-production.md)
     * [Pearl Millet](index/value-chain/production/pearl-millet.md)
     * [Barnyard Millet](index/value-chain/production/barnyard-millet.md)
