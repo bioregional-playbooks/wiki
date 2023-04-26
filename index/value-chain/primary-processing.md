@@ -15,7 +15,19 @@ Indicators&#x20;
 
 Primary Processing
 
+There is a Lack of affordable and efficient technologies for community level primary processing of the millets. Existing facilities utilise Paddy processing machines with minimal modifications to process millets leading to poor performance
 
+<figure><img src="../../.gitbook/assets/Screenshot 2023-04-26 at 6.49.31 PM.png" alt=""><figcaption><p>Source: Earth360 Pvt Ventures</p></figcaption></figure>
+
+Millets are different from Paddy and Wheat and so should be the machines for their primary processing. Realising the potential for millets, big players in the grain milling industry have entered the market, without much R\&D inputs. The Point of concern is - Millet primary processing Industry is moving in the lines of Green revolution models of Paddy milling.
+
+Our solution is to develop Scalable, Efficient and Affordable Primary Processing Technologies to Enable Community Level Millet Processing.&#x20;
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-04-26 at 6.52.10 PM.png" alt=""><figcaption><p>Source: Earth 360 Pvt Ventures presentation</p></figcaption></figure>
+
+This will enable :
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-04-26 at 6.52.15 PM.png" alt=""><figcaption></figcaption></figure>
 
 
 
