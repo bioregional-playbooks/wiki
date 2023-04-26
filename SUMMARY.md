@@ -13,7 +13,7 @@
       * [Seed Production](index/value-chain/production/pearl-millet/seed-production.md)
     * [Barnyard Millet](index/value-chain/production/barnyard-millet.md)
       * [Seed Production](index/value-chain/production/barnyard-millet/seed-production.md)
-    * [Finger Millet](index/value-chain/production/finger-millet/README.md)
+    * [Finger Millet](index/value-chain/production/finger-millet.md)
       * [Seed Production](index/value-chain/production/finger-millet/seed-production.md)
     * [Foxtail Millet](index/value-chain/production/foxtail-millet.md)
   * [Seed Production](index/value-chain/production/seed-production.md)
