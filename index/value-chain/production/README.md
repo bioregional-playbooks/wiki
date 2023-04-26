@@ -10,13 +10,40 @@ Poor farmers especially in dryland India are owners of very poor lands. Much of 
 
 Reference: Millets: Future of Food & Farming by Millet Network of India, Deccan Development Society, and FIAN, India
 
+Most of the millets are kharif season crops (sown during May-June) and come to maturity during September to October. Most of these crops give good yields during rabi season (October-March) and summer season (January-April).
+
+
+
 **Identify right geography, clusters**
 
 \<context for why geography matters>
 
-\<insert a table with parameters>
+**Agrometeorological conditions for different millet types (a snapshot)**
 
-\<Map the favourable growing conditions and consumption patterns>
+| Type of Millet  | Geographic Conditions                                                                                                        |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Pearl Millet    | Dry climates, marginal soils, Rainfall 200–500 mm \*\*                                                                       |
+| Finger Millet   | Resist higher temperatures and salinity, temperature 11 to 27 ◦C, soil pH of 5 to 8.2 and a medium rainfall environment \*\* |
+| Proso Millet    | Less water, Rainfall less than 600 mm, average temperature 17 ◦C during daytime                                              |
+| Foxtail Millet  | Less water \*\*, short duration \*\*\*                                                                                       |
+| Barnyard Millet | Drought tolerant, rapid maturation rate \*\*                                                                                 |
+| Kodo Millet     | High drought resistance, Good yields, period of 80–135 days \*\*                                                             |
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-04-26 at 9.35.06 AM.png" alt=""><figcaption></figcaption></figure>
+
+Consumption pattern of **small millets** across India
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-04-26 at 8.42.42 AM.png" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
+
+
+
+
+
 
 **How to identify the millet?**&#x20;
 
