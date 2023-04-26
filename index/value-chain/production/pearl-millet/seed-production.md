@@ -6,6 +6,8 @@ description: >-
 
 # Seed Production
 
+The best season for seed production is October - December. The temperature favourable for seed setting is 37o c. The pollination should not coincide with rains. Rain affect effective seed setting and production of quality seeds.
+
 Method of seed production&#x20;
 
 Pearl millet of Bajra is a highly cross-pollinated crop with 80% of cross-pollination. The crop should be raised in isolation and seeds should be allowed to set by open-pollination. The isolation distance maintained between the varieties is 400 metres for foundation seed and 200 metres for certified seed production.&#x20;

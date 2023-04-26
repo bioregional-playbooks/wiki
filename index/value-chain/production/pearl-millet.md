@@ -1,6 +1,8 @@
 # Pearl Millet
 
-&#x20;**A. Land preparation:** Cultivation of field two times (cross ploughing) and harrowing once is sufficient to bring field to fine tilth. Use of plank tied behind the cultivator may be necessary to break large clods and more harrows may be required in case of fields infested with weeds.&#x20;
+&#x20;
+
+**A. Land preparation:** Cultivation of field two times (cross ploughing) and harrowing once is sufficient to bring field to fine tilth. Use of plank tied behind the cultivator may be necessary to break large clods and more harrows may be required in case of fields infested with weeds.&#x20;
 
 **B. Planting method:** Planting is done either by direct sowing of seed or transplanting the seedlings raised in nursery. • Direct-sowing: Generally, tractor or bullock-drawn seed drills or bullock plough are used for sowing. A-lines are planted by machine-drawn seed drill and R-lines are planted manually by hand dibbling in rows marked with stakes. Sowing equipment needs to be thoroughly cleaned to avoid contamination during sowing. • Transplanting: Transplanting enables easy adjustment in flowering time of parental lines in case they have large differences for flowering time. Transplanting saves expenditure on weeding and irrigation. It also saves time when field is occupied with any other crop. Transplanting requires 30-40% less seed than direct sowing and proper plant stand is achieved with required spacing. The parents of hybrid are sown in a nursery bed raised 10 cm above the ground level. Seed should be sown 1.5 cm deep to facilitate better germination and safe uprooting of seedlings for transplanting. Seed is sown in rows spaced 10-15 cm apart. Seedlings are transplanted in the field when they are 18-20 days old. Transplanting of seedlings older than 20 days might result in reduced tillering and low seed yield.&#x20;
 
