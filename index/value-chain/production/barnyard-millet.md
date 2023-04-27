@@ -1,5 +1,92 @@
 # Barnyard Millet
 
+**Barnyard Millet (Echinochloa frumentacea)**
+
+**Varieties**
+
+A number of varieties with high yield potential have been released for different states. The list of latest and popular varieties recommended for different states are given below&#x20;
+
+**State Varieties**
+
+1\. Uttarakhand VL 172, VL 207, PRJ 1 and VL 29, PRS 1
+
+2\. Uttar Pradesh VL 172 and VL 207, Anurag, VL 29
+
+3\. Tamil Nadu CO 1 and CO 2, VL 181, VL 29
+
+4\. Karnataka VL 172, RAU 11, VL 181
+
+5\. Gujarat Gujarat Banti- 1
+
+\
+**Season**
+
+• Tamil Nadu: September –October (Rainfed) and February –March (Irrigated)
+
+• Uttaranchal and North Eastern States: April-May
+
+• Dry seeding prior to the onset of monsoon is practiced in hills.
+
+**Spacing and seed rate**
+
+Spacing: 25 cms between rows and 10 cm between plants within a row
+
+Seed rate: 8-10 kg ha-1 for line sowing
+
+12-15 kg ha -1 for broad casting
+
+\
+
+
+**Manuring and fertilization**
+
+• Apply 5 tones of farm yard manure per hectare 2-3 weeks before sowing.
+
+• fertilizer required for different states is as follows
+
+States Fertilizer recommended NPK kg ha-1
+
+Andhra Pradesh 20:20:0
+
+Bihar and Tamil nadu 40:20:0
+
+Uttar Pradesh 40:20:0
+
+Other states 20:20:0
+
+Bio-fertilizer:
+
+Inoculating seeds with Agrobacterium radiobacter and Aspergillus awamori is recommended
+
+**Weed control**
+
+• Two inter cultivations and one hand weeding in line sowing
+
+• Two hand weeding in broadcasted crop.
+
+**Cropping system**
+
+• Barnyard millet + rice bean in 4:1 row ratio is recommended for Uttaranchal
+
+**Diseases**
+
+The crop although affected by three different smuts, the grain smut caused by Ustilago panici-frumentacei is important.
+
+Control: Pre sowing treatment of the seeds with Thiram or Carbendazim @ 2g/kg.
+
+**Pests**
+
+Shootfly
+
+It is the most serious pest causing significant yield losses.
+
+Control
+
+Early sowing with the onset of monsoon is an effective and cheapest method of control.
+
+Source:[https://www.millets.res.in/technologies.php](https://www.millets.res.in/technologies.php)\
+
+
 **Climatic Requirements:** Barnyard millet is a drought tolerant crop and hence is grown as a rainfed crop. It can be grown successfully under partially water logged conditions. It is grown from sea level to an altitude of 2000 metres on the Himalayan slopes. Warm and moderately humid climate is good for raising barnyard millet crop. It is a hardy crop and is able to withstand adverse conditions of weather better than other cereals.&#x20;
 
 **Soil:** Barnyard millet is generally cultivated in soils of marginal fertility. It can be grown in partially water logged soils such as low lands on the banks of rivers etc. But it thrives best on sandy loam to loam soil having sufficient amount of organic matter. Gravely and stony soils with poor fertility are not suitable for raising barnyard millet crop.&#x20;
