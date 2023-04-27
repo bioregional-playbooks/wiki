@@ -1,12 +1,16 @@
 # Value Addition
 
-Small millet based value added products including traditional recipes, bakery products, pasta products, flaked and popped products instant food mixes were developed and standardized. The products which are commonly prepared by the farmers using cereals were replaced with small millets to increase their utilisation.
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-04-27 at 10.26.19 AM.png" alt=""><figcaption><p>SELCO Foundation: Integrating SDG7 in Millet Processing</p></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-04-27 at 10.30.27 AM.png" alt=""><figcaption><p>SELCO Foundation: Integrating SDG7 in Millet Processing</p></figcaption></figure>
+
+
 
 
 
 <figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+Small millet based value added products including traditional recipes, bakery products, pasta products, flaked and popped products instant food mixes were developed and standardized. The products which are commonly prepared by the farmers using cereals were replaced with small millets to increase their utilisation.
 
 ### Traditional Recipes
 
