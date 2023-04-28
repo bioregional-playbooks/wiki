@@ -4,7 +4,6 @@
 
 ## Index
 
-* [Transportation](index/transportation.md)
 * [Value Chain](index/value-chain/README.md)
   * [Production](index/value-chain/production/README.md)
     * [Proso Millet](index/value-chain/production/proso-millet/README.md)
@@ -41,10 +40,11 @@
     * [Price](index/value-chain/consumption/price.md)
     * [Local Consumption](index/value-chain/consumption/local-consumption.md)
     * [Feed for animals](index/value-chain/consumption/feed-for-animals.md)
+  * [Primary Processing](index/value-chain/primary-processing.md)
   * [Distribution](index/value-chain/distribution.md)
-    * [Primary Processing](index/value-chain/primary-processing.md)
   * [Secondary Processing](index/value-chain/secondary-processing.md)
-  * [Transportation](index/value-chain/transportation.md)
+  * [Transportation](index/value-chain/transportation/README.md)
+    * [Transportation](index/value-chain/transportation/transportation.md)
 * [Mainstreaming](index/mainstreaming/README.md)
   * [Institutional Commitment](index/mainstreaming/institutional-commitment.md)
   * [Coordination](index/mainstreaming/coordination.md)
@@ -66,3 +66,4 @@
 ***
 
 * [Success Stories](success-stories.md)
+* [Page 4](page-4.md)
