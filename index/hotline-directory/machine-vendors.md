@@ -17,3 +17,5 @@
 <figure><img src="../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+To add to this list of machines click [here](https://forms.gle/UBGjKxK6pZqACBmA7)
