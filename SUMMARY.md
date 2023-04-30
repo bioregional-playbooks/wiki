@@ -60,6 +60,7 @@
   * [Machine Vendors](index/hotline-directory/machine-vendors.md)
   * [Millet FPO](index/hotline-directory/millet-fpo.md)
   * [Enterprises](index/hotline-directory/enterprises.md)
+  * [Trainers](index/hotline-directory/trainers.md)
 
 ## mainstreaming
 
