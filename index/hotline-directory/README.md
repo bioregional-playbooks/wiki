@@ -6,4 +6,14 @@ Millet Farmer Producer Companies + Enterprises + Exporters&#x20;
 
 [Himachal Pradesh](https://apeda.gov.in/milletportal/files/HP\_Millet\_Value\_Added\_Products\_Catalogue.pdf)
 
+[Haryana](https://apeda.gov.in/milletportal/files/haryana\_Millet\_Value\_Added\_Products\_Catalogue.pdf)
+
+[West Bengal](https://apeda.gov.in/milletportal/files/West\_Bengal\_Millet\_Value\_Added\_Products\_Catalogue.pdf)
+
+Punjab
+
+
+
+
+
 &#x20;
