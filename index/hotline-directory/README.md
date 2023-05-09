@@ -12,6 +12,12 @@ Millet Farmer Producer Companies + Enterprises + Exporters&#x20;
 
 Punjab
 
+[Andhra Pradesh](https://apeda.gov.in/milletportal/files/ANDHRA\_PRADESH\_Millet\_Value\_Added\_Products\_Catalogue.pdf)
+
+[Gujarat](https://apeda.gov.in/milletportal/files/Gujarat\_Millet\_Value\_Added\_Products\_Catalogue.pdf)
+
+
+
 
 
 
