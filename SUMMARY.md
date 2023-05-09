@@ -61,7 +61,6 @@
   * [Millet FPO](index/hotline-directory/millet-fpo.md)
   * [Enterprises](index/hotline-directory/enterprises.md)
   * [Trainers](index/hotline-directory/trainers.md)
-  * [Exporters and Traders](index/hotline-directory/exporters-and-traders.md)
 
 ## mainstreaming
 
