@@ -62,6 +62,7 @@
   * [Enterprises](index/hotline-directory/enterprises.md)
   * [Page 5](index/hotline-directory/page-5.md)
   * [Trainers](index/hotline-directory/trainers.md)
+  * [Exporters and Traders](index/hotline-directory/exporters-and-traders.md)
 
 ## mainstreaming
 
