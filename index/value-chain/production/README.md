@@ -10,7 +10,7 @@ Poor farmers especially in dryland India are owners of very poor lands. Much of 
 
 Reference: Millets: Future of Food & Farming by Millet Network of India, Deccan Development Society, and FIAN, India
 
-Most of the millets are kharif season crops (sown during May-June) and come to maturity during September to October. Most of these crops give good yields during rabi season (October-March) and summer season (January-April).
+Maximum millet cultivation happens in the kharif period, i.e. during the monsoon season. In areas that receive more than 800mm of rains, many of the millets can be cultivated in the second season, i.e. as a rabi crop (during the post monsoon, early winter months). And in some places with the right soil and geography, a few millets can even grow in the third season, during the dark days of winter, drawing on residual moisture in the soil and the dew that precipitates.
 
 
 
