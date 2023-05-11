@@ -1,6 +1,18 @@
 # Recipes
 
-Ragi Mudde (Finger Millet Balls)
+
+
+**CSO**
+
+Here's a [training](https://www.youtube.com/watch?v=A0-xBiI4hck\&embeds\_euri=https%3A%2F%2Fmail.google.com%2F\&embeds\_origin=https%3A%2F%2Fmail.google.com\&source\_ve\_path=Mjg2NjY\&feature=emb\_logo) on incorporating millet into recipes for women entrepreneurs in KB Asifabad Telangana (By WASSAN)
+
+Here's a [video](https://www.youtube.com/watch?v=A0-xBiI4hck\&embeds\_euri=https%3A%2F%2Fmail.google.com%2F\&embeds\_origin=https%3A%2F%2Fmail.google.com\&source\_ve\_path=Mjg2NjY\&feature=emb\_logo) on building awareness among mothers to incorporate millets into ICDS  (by WASSAN)
+
+
+
+**For any user:**&#x20;
+
+Here's a [millet recipe book](https://drive.google.com/file/d/1YxRbeVNUQ5\_CNJ7W2-RTrdHGoH319fN-/view) by Welt Hunger Life with diverse recipes like millet pulav, biryani, momos and more...
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-04-18 at 3.18.42 PM.png" alt=""><figcaption></figcaption></figure>
 
