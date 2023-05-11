@@ -46,12 +46,11 @@ This will enable :
    FarmEasy also sells weeders, sprayers, sieves in addition to the mixie [here](https://gofarmeasy.in/shop/).
 3. Here's a [video series](https://www.youtube.com/playlist?list=PL5x3RzdVZoKOF3pjLbQjYdtNa-PqKlx65) on small millet processing by Dhan Foundation
 
-
-
 ### For CSOs/ Entrepreneurs
 
-1. How to set up a [small scale millet processing unit ](https://www.dhan.org/smallmillets2/file/guidelines-sm.pdf)by Dhan Foundation  in English & [Tamil](https://www.dhan.org/smallmillets2/file/guidelines-sm.pdf)
-2. How can I train the operators of a small scale millet processing unit ?
+1. Here's a [questionnaire](https://docs.google.com/document/d/1jht27Uqb45oOTWqASd7Bvcv-laq1Ax3m\_lCeNICbZwI/edit) for an entrepreneur looking to set up a community-scale millet processing unit by [Dwiji Guru](https://themillet.org/author/dnguru/)
+2. How to set up a [small scale millet processing unit ](https://www.dhan.org/smallmillets2/file/guidelines-sm.pdf)by Dhan Foundation  in English & [Tamil](https://www.dhan.org/smallmillets2/file/guidelines-sm.pdf)
+3. How can I train the operators of a small scale millet processing unit ?
 
 ### List of Vendors to source Millet processing machines
 
