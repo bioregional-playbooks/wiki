@@ -42,7 +42,7 @@ This will enable :
    Farm easy supplies modified mixies along with 3 sieves for INRs.3200/unit. RythuSadikara Samstha is planning to upscale the millet microentrepreneur model in all the APCNF resource villages to enhance millet consumption at the household level.  \
    \
    FarmEasy also sells weeders, sprayers, sieves in addition to the mixie [here](https://gofarmeasy.in/shop/).
-3.
+3. Here's a [video series](https://www.youtube.com/playlist?list=PL5x3RzdVZoKOF3pjLbQjYdtNa-PqKlx65) on small millet processing by Dhan Foundation
 
 
 
