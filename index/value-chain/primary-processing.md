@@ -57,7 +57,11 @@ There are two grain characteristics that are used to grade grains – size and d
 3. What are the [types of machines](https://www.dhan.org/smallmillets2/file/Small%20millet%20processing%20machines%20Experience%20of%20DHAN%20ppt.pdf) required in a small scale millet processing unit ?&#x20;
 4. How can I train the operators of a small scale millet processing unit ?
 
-### List of Vendors to source Millet processing machines
+### List of Enterprises with Millet processing machines who have B2B models:
+
+1. [Adithi Millet Enterprises, Karnool](https://vc4a.com/ventures/adithi-millets-private-limited/)
+
+### &#x20;
 
 
 
