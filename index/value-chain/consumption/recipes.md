@@ -4,6 +4,8 @@
 
 **CSO**
 
+
+
 Here's a [training](https://www.youtube.com/watch?v=A0-xBiI4hck\&embeds\_euri=https%3A%2F%2Fmail.google.com%2F\&embeds\_origin=https%3A%2F%2Fmail.google.com\&source\_ve\_path=Mjg2NjY\&feature=emb\_logo) on incorporating millet into recipes for women entrepreneurs in KB Asifabad Telangana (By WASSAN)
 
 Here's a [video](https://www.youtube.com/watch?v=A0-xBiI4hck\&embeds\_euri=https%3A%2F%2Fmail.google.com%2F\&embeds\_origin=https%3A%2F%2Fmail.google.com\&source\_ve\_path=Mjg2NjY\&feature=emb\_logo) on building awareness among mothers to incorporate millets into ICDS  (by WASSAN)
@@ -12,8 +14,9 @@ Here's a [video](https://www.youtube.com/watch?v=A0-xBiI4hck\&embeds\_euri=https
 
 **For any user:**&#x20;
 
-1. Here's a [millet recipe book](https://drive.google.com/file/d/1YxRbeVNUQ5\_CNJ7W2-RTrdHGoH319fN-/view) by Welt Hunger Life with diverse recipes like millet pulav, biryani, momos and more.
-2. Here's a book of [smart millet recipes](https://drive.google.com/file/d/1yhcNnvk1PFwcGEMlMWXkPcb2Iykyj2sr/view) by ICRISAT
+1. An [excellent collection](https://milletsodisha.com/recipe) of recipes by the Odisha Millet Mission&#x20;
+2. Here's a [millet recipe book](https://drive.google.com/file/d/1YxRbeVNUQ5\_CNJ7W2-RTrdHGoH319fN-/view) by Welt Hunger Life with diverse recipes like millet pulav, biryani, momos and more.
+3. Here's a book of [smart millet recipes](https://drive.google.com/file/d/1yhcNnvk1PFwcGEMlMWXkPcb2Iykyj2sr/view) by ICRISAT
 
 
 
