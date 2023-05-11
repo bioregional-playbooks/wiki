@@ -50,7 +50,8 @@ This will enable :
 
 1. Here's a [questionnaire](https://docs.google.com/document/d/1jht27Uqb45oOTWqASd7Bvcv-laq1Ax3m\_lCeNICbZwI/edit) for an entrepreneur looking to set up a community-scale millet processing unit by [Dwiji Guru](https://themillet.org/author/dnguru/)
 2. How to set up a [small scale millet processing unit ](https://www.dhan.org/smallmillets2/file/guidelines-sm.pdf)by Dhan Foundation  in English & [Tamil](https://www.dhan.org/smallmillets2/file/guidelines-sm.pdf)
-3. How can I train the operators of a small scale millet processing unit ?
+3. What are the [types of machines](https://www.dhan.org/smallmillets2/file/Small%20millet%20processing%20machines%20Experience%20of%20DHAN%20ppt.pdf) required in a small scale millet processing unit ?&#x20;
+4. How can I train the operators of a small scale millet processing unit ?
 
 ### List of Vendors to source Millet processing machines
 

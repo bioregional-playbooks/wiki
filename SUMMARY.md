@@ -23,6 +23,7 @@
     * [Sorghum Millet](index/value-chain/production/sorghum-millet/README.md)
       * [Seed Production](index/value-chain/production/sorghum-millet/seed-production.md)
   * [Seed Production](index/value-chain/production/seed-production.md)
+  * [Seed Certification](index/value-chain/seed-certification.md)
   * [Storage](index/value-chain/storage/README.md)
     * [Pest Management](index/value-chain/storage/pest-management.md)
   * [Value Addition](index/value-chain/value-addition/README.md)
