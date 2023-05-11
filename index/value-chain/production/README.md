@@ -109,12 +109,7 @@ Here's a [poster of Navdhanya approach](https://www.apmas.org/pdf/padipantalu/na
 
 
 
-Indicators
-
-1. Adoption of improved agronomic practices for enhanced productivity
-2. Farm inputs and mechanization
-3. Irrigational infrastructure
-4. Agricultural research & extension
+### APPENDIX
 
 
 
