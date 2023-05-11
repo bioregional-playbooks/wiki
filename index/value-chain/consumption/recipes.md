@@ -12,7 +12,10 @@ Here's a [video](https://www.youtube.com/watch?v=A0-xBiI4hck\&embeds\_euri=https
 
 **For any user:**&#x20;
 
-Here's a [millet recipe book](https://drive.google.com/file/d/1YxRbeVNUQ5\_CNJ7W2-RTrdHGoH319fN-/view) by Welt Hunger Life with diverse recipes like millet pulav, biryani, momos and more...
+1. Here's a [millet recipe book](https://drive.google.com/file/d/1YxRbeVNUQ5\_CNJ7W2-RTrdHGoH319fN-/view) by Welt Hunger Life with diverse recipes like millet pulav, biryani, momos and more.
+2. Here's a book of [smart millet recipes](https://drive.google.com/file/d/1yhcNnvk1PFwcGEMlMWXkPcb2Iykyj2sr/view) by ICRISAT
+
+
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-04-18 at 3.18.42 PM.png" alt=""><figcaption></figcaption></figure>
 
