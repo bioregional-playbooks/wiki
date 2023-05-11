@@ -1,5 +1,13 @@
 # Seed Production
 
+### Successful models in promoting seed varieties:&#x20;
+
+Government of Odisha under OMM has shown the way of how agro-biodiversity can be promoted through participation of local communities. Constituted the Working Group on Seeds, Odisha and issued guidelines for standard operating protocols for Alternate seed systems for landraces to mainstream them.&#x20;
+
+This system need not be a replica of existing institutional framework but it has to be done systematically and scientifically. The discussion started with finger millet and now extended to other crops too-in Kharif 2022, there are 33 crop diversity blocks , 17 multi-location trails, 41 participatory varietal trails and 16 seed production plots are there in different locations of Odisha. There is a small pilot is going on mapping the landraces in 11 Districts and 254 village and understand quality parameters of non-ragi millets, pulses, oil seeds, paddy from farmer’s and scientific community perception. All these will bring them into one umbrella i.e. alternate seed systems for landraces/ traditional varieties.
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-05-11 at 6.26.08 PM.png" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../../../.gitbook/assets/image (52).png" alt=""><figcaption><p><a href="https://www.millets.res.in/books/Part-1.pdf">Millet Seed Technology</a></p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
