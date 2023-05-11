@@ -24,6 +24,10 @@ This will enable :
 
 <figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
+[Grading](https://themillet.org/2019/03/07/importance-of-grading-in-community-scale-small-millet-processing/) allows us to remove the smaller, not full formed, and immature grains. It also allows us to separate out seed quality grains from within the lot providing a selection and thereby improving the seed quality.
+
+There are two grain characteristics that are used to grade grains – size and density. We use an eccentric or vibrating grader to achieve size grading and a destoner to achieve density grading. As one would expect, grading and cleaning go hand in hand – as we remove the extremes of the size and density distribution, we remove material other than grains (also referred to sometimes as MOTG). (source: [https://themillet.org/](https://themillet.org/))
+
 <figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
