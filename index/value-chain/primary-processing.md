@@ -1,5 +1,7 @@
 # Primary Processing
 
+### Setting the context&#x20;
+
 There is a lack of affordable and efficient technologies for community level primary processing of the millets. Existing facilities utilise Paddy processing machines with minimal modifications to process millets leading to poor performance
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-04-26 at 6.49.31 PM.png" alt=""><figcaption><p>Source: Earth360 Pvt Ventures</p></figcaption></figure>
@@ -46,7 +48,9 @@ This will enable :
 
 
 
+### For CSOs/ Entrepreneurs
 
+1. How to set up a [small scale millet processing unit ](https://www.dhan.org/smallmillets2/file/guidelines-sm.pdf)by Dhan Foundation
 
 
 
