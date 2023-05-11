@@ -99,15 +99,7 @@ The role of women is vital to _Akkadi Saalu_. As an integral and symbolic part o
 
 In this dynamic agricultural system, every element holds deep value, yet it is the seeds that farmers protect at all costs. It is through these indigenous seeds that _Akkadi Saalu_ finds its reawakening.
 
-**Purva System**
-
-2 type of millets
-
-* rice based millets (which you need to mill)&#x20;
-* the other&#x20;
-
-&#x20;The processing is different for the two kinds of millets\
-
+Here's a [poster of Navdhanya approach](https://www.apmas.org/pdf/padipantalu/navadanya-flyer.pdf) in Telugu by APMAS
 
 
 
