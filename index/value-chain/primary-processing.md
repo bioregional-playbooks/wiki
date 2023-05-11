@@ -51,9 +51,15 @@ This will enable :
 ### For CSOs/ Entrepreneurs
 
 1. How to set up a [small scale millet processing unit ](https://www.dhan.org/smallmillets2/file/guidelines-sm.pdf)by Dhan Foundation  in English & [Tamil](https://www.dhan.org/smallmillets2/file/guidelines-sm.pdf)
-2.
+2. How can I train the operators of a small scale millet processing unit ?
+
+### List of Vendors to source Millet processing machines
 
 
+
+###
+
+###
 
 ### APPENDIX
 
