@@ -17,5 +17,7 @@ List of events focused on millets (training, experiential, tutorials and more...
    \
    The fourth edition of MOITF was held on 20-22 January 2023 coincides with the **International Year of the Millets (IYOM) 2023**. It is a platform for farmers, farmer groups, domestic and international companies, central and state institutions to connect and explore opportunities in agri-horticulture, processing, machinery and agri-technology.
 
+### Stakeholder Meetings for Knowledge Sharing
 
+1. [National Conference on Millets](https://www.jagannathuniversity.org/nc-millets/about-us.php) by Jaganath University, Jaipur, RJ on 28-29 April 2023
 
