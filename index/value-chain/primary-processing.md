@@ -40,14 +40,15 @@ There are two grain characteristics that are used to grade grains – size and d
 
 ## Resources from Experts&#x20;
 
-1. Short video series on millet processing [here](https://youtube.com/playlist?list=PLw4jroI0AKyC9avNj1fLKQc78UWAr8sVj) (by Dwiji Guru)
-2. [Farm Easy (a collective of Engineers and entrepreneurs)](https://gofarmeasy.in/), was initiated by The Watershed Support Services and Activities Network (WASSAN). Farm Easy has succeeded in developing a millet mixie that can be used for processing minor millets at the household level or as a nano enterprise. As a test run a few such millet mixies were supplied to villages in the APCNF cluster like Bodlanka in East Godavari, Pedalabudu, Sagara, D. Gonduru in Visakhapatnam, Pedarama and Veeragattam villages in Srikakulam Districts for processing Little millet and Foxtail Millet in January 2020. The rate of millet rice consumption among the above habitats increased significantly due to reduced drudgery in millet processing. The increase in household consumption has resulted in increased millet acreage in the area. It has also turned women operating these mixies into micro-entrepreneurs who provide services for a fee.\
+1. Short video series on millet processing [here](https://youtube.com/playlist?list=PLw4jroI0AKyC9avNj1fLKQc78UWAr8sVj) (by Dwiji Guru)\
+
+2. [Farm Easy (a collective of Engineers and entrepreneurs)](https://gofarmeasy.in/), was initiated by The Watershed Support Services and Activities Network (WASSAN). Farm Easy has succeeded in developing a [millet mixie](https://www.youtube.com/watch?v=09O3U0BebQI\&t=194s) that can be used for processing minor millets at the household level or as a nano enterprise. \
    \
-   [https://www.youtube.com/watch?v=09O3U0BebQI\&t=194s](https://www.youtube.com/watch?v=09O3U0BebQI\&t=194s)\
+   As a test run a few such millet mixies were supplied to villages in the APCNF cluster like Bodlanka in East Godavari for processing Little millet and Foxtail Millet in January 2020. The rate of millet rice consumption among the above habitats increased significantly due to reduced drudgery in millet processing. The increase in household consumption has resulted in increased millet acreage in the area. It has also turned women operating these mixies into micro-entrepreneurs who provide services for a fee. (Watch a video showcasing this work [here](https://www.youtube.com/watch?v=09O3U0BebQI\&t=194s))\
    \
-   Farm easy supplies modified mixies along with 3 sieves for INRs.3200/unit. RythuSadikara Samstha is planning to upscale the millet microentrepreneur model in all the APCNF resource villages to enhance millet consumption at the household level.  \
-   \
-   FarmEasy also sells weeders, sprayers, sieves in addition to the mixie [here](https://gofarmeasy.in/shop/).
+   Farm easy supplies **modified mixies along with 3 sieves for INRs.3200/unit.** RythuSadikara Samstha is planning to upscale the millet microentrepreneur model in all the APCNF resource villages to enhance millet consumption at the household level.  \
+   FarmEasy also sells weeders, sprayers, sieves in addition to the mixie [here](https://gofarmeasy.in/shop/).\
+
 3. Here's a [video series](https://www.youtube.com/playlist?list=PL5x3RzdVZoKOF3pjLbQjYdtNa-PqKlx65) on small millet processing by Dhan Foundation
 
 ### For CSOs/ Entrepreneurs
