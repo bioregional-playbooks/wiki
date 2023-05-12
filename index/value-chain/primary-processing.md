@@ -57,17 +57,18 @@ There are two grain characteristics that are used to grade grains – size and d
 3. What are the [types of machines](https://www.dhan.org/smallmillets2/file/Small%20millet%20processing%20machines%20Experience%20of%20DHAN%20ppt.pdf) required in a small scale millet processing unit ?&#x20;
 4. How can I train the operators of a small scale millet processing unit ?
 
-### List of Enterprises with Millet processing machines who have B2B models:
+### List of Enterprises with Millet processing machines&#x20;
 
-1. [Adithi Millet Enterprises, Karnool](https://vc4a.com/ventures/adithi-millets-private-limited/)
-2.  [Perfura Technologies (India) Private Limited](https://www.perfura.co.in/)\
-    Coimbatore: 1/49-13, Kulluku Thottam, Keeranatham, Saravanampatty Post, Coimbatore – 641035, Tamil Nadu\
-    Hyderabad: 510, Tirtha Signature 2, Pillar No 309, PVNR Expressway, Near Aramghar, Shivarampally, Hyderabad – 500052, Telangana\
-    E: [admin@perfura.in](mailto:admin@perfura.in)\
-    M: +91 98949 30009\
-    W: [www.perfura.in](http://www.perfura.in/)&#x20;
+1. [AVM Engineering Limited, Tamil Nadu](https://www.indiamart.com/avmengineeringindustries/)
+2. [Perfura Technologies (India) Private Limited](https://www.perfura.co.in/), Coimbatore
+3. [S\&T Engineers](https://www.stengineers.in/), Coimbatore
+4. [Nabitha Engineering, Hyderabad](https://www.storenabhitha.in/profile.html)
+5. [Osaw Agro Industries](https://www.agrosaw.co.in/search.html?ss=millet), Ambala
+6. [Adithi Millet Enterprises, Karnool](https://vc4a.com/ventures/adithi-millets-private-limited/)
 
-    \
+
+
+\
 
 
 ### &#x20;
