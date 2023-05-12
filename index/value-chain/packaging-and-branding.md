@@ -29,3 +29,5 @@ The packaging and branding dimension captures
   * PMFME scheme
 * &#x20;organic certification for better price realization and creation of logos for branding
   * Organic certification of Millets
+
+Promotion avenues
