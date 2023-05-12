@@ -20,4 +20,5 @@ Here's a list of [resources](https://www.dhan.org/smallmilletfoundation/consumpt
 2. [Adithi Millet Enterprises, Karnool](https://vc4a.com/ventures/adithi-millets-private-limited/)
 3. [Buffaloback](http://www.buffalobackcollective.com/), Bangalore
 4. [Ragihalli Bakery](https://www.facebook.com/Vasudhabakery), Bangalore
-5. [Troogood](https://store.troogood.com/) \
+5. [Troogood](https://store.troogood.com/)&#x20;
+6. [Kaulige](https://www.kaulige.com/corporate-catering/) Foods, Bangalore (Also offers Corporate Millet Cafeterias)\

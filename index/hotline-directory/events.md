@@ -19,5 +19,7 @@ List of events focused on millets (training, experiential, tutorials and more...
 
 ### Stakeholder Meetings for Knowledge Sharing
 
-1. [National Conference on Millets](https://www.jagannathuniversity.org/nc-millets/about-us.php) by Jaganath University, Jaipur, RJ on 28-29 April 2023
+1. [Global Millets Conference](https://www.phdcci.in/events/global-millets-shree-anna-conference-2023/) in New Delhi on March 18 2023
+2. [Millets Conference 2023](https://www.assocham.org/event-detail.php?event=millets-conference-2023-future-super-food-for-the-world): The Future Super Food on Mar 24, 2023 in Hyderabad. The conference will mark the presence of key stakeholders, representatives from union and state governments, academia, start-ups, technology providers, R\&D Institutes, Financial Institutes, food safety experts, FPO’s etc to share their knowledge in this area. This conference will offer unique branding and business opportunities to the organizations engaged in food processing & allied sector. The program has been designed as such to provide partners with a valuable opportunity to showcase their expertise and position them to further their business interests.
+3. [National Conference on Millets](https://www.jagannathuniversity.org/nc-millets/about-us.php) by Jaganath University, Jaipur, RJ on 28-29 April 2023
 
