@@ -1,8 +1,6 @@
 # Storage
 
-Indicators :&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
 #### [**Millet Value Chain in Storage:**](https://milletadvisor.com/millet-value-chain-analysis/)
 

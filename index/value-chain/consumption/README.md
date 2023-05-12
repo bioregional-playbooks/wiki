@@ -8,11 +8,19 @@ Here's a list of [resources](https://www.dhan.org/smallmilletfoundation/consumpt
 
 **For an Entrepreneur:**&#x20;
 
+
+
+Here's a list of manufacturer's to create private-label millet brands.
+
 #### Millet Value Added Products Manufacturers
 
 1. #### [Avani Organics](http://avanniorganics.com/Contact), Kadapa district
 2. #### [FibroFoods, Salem ](https://fibrofoods.com/millet-private-label-manufacturer/)
 3. #### [Basillia Organics Pvt Ltd](https://app.swapcard.com/event/gulfood-2022-1/person/RXZlbnRQZW9wbGVfMTk4Njc4MzQ=), Pune
+
+
+
+Here's a list of retail brands that are catering to the growing taste in millets
 
 **List of Vendors selling Millet-based products:**
 
