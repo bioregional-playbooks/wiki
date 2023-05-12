@@ -61,13 +61,14 @@ There are two grain characteristics that are used to grade grains – size and d
 
 ### List of Enterprises with Millet processing machines&#x20;
 
-| Name                                                                           | Location                                                          |   |
-| ------------------------------------------------------------------------------ | ----------------------------------------------------------------- | - |
-| [AVM Engineering Limited](https://www.indiamart.com/avmengineeringindustries/) | [Tamil Nadu](https://www.indiamart.com/avmengineeringindustries/) |   |
-| [Perfura Technologies (India) Private Limited](https://www.perfura.co.in/)     | Coimbatore                                                        |   |
-| [S\&T Engineers](https://www.stengineers.in/)                                  | Coimbatore                                                        |   |
-| [Nabitha Engineering](https://www.storenabhitha.in/profile.html)               | [Hyderabad](https://www.storenabhitha.in/profile.html)            |   |
-| [Osaw Agro Industries](https://www.agrosaw.co.in/search.html?ss=millet)        | Ambala                                                            |   |
+| Name                                                                            | Location                                                          |   |
+| ------------------------------------------------------------------------------- | ----------------------------------------------------------------- | - |
+| [AVM Engineering Limited](https://www.indiamart.com/avmengineeringindustries/)  | [Tamil Nadu](https://www.indiamart.com/avmengineeringindustries/) |   |
+| [Perfura Technologies (India) Private Limited](https://www.perfura.co.in/)      | Coimbatore                                                        |   |
+| [S\&T Engineers](https://www.stengineers.in/)                                   | Coimbatore                                                        |   |
+| [Nabitha Engineering](https://www.storenabhitha.in/profile.html)                | [Hyderabad](https://www.storenabhitha.in/profile.html)            |   |
+| [Osaw Agro Industries](https://www.agrosaw.co.in/search.html?ss=millet)         | Ambala                                                            |   |
+| [Borne Technologies](https://borne-technologies-private-limited.business.site/) | Coimbatore                                                        |   |
 
 
 
