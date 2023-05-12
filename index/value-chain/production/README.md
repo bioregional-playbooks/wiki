@@ -35,25 +35,11 @@ Consumption pattern of **small millets** across India
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-04-26 at 8.42.42 AM.png" alt=""><figcaption></figcaption></figure>
 
-
-
-
-
-
-
-
-
-
-
 **How to identify the millet?**&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (57) (1).png" alt=""><figcaption></figcaption></figure>
-
-
-
-
 
 **How to promote millets**
 
@@ -103,7 +89,20 @@ Here's a [poster of Navdhanya approach](https://www.apmas.org/pdf/padipantalu/na
 
 
 
+### Guli Ragi System of Andhra Pradhesh
 
+_The Guli method of ragi cultivation is a scientific way of growing it with wider spacing  between rows of crops. It has helped revive the important crop among_\
+_farmers._
+
+In Andhra Pradesh, ragi is a major crop, along with paddy. But the traditional method of broadcasting or direct seed sowing produced low yields of three to four quintals of ragi per acre. However, after the Guli method of ragi cultivation was introduced from 2017 onwards, many farmers have recorded yields of up to 10-16 quintals per acre.
+
+The [Guli](http://tehelka.com/ap-farmers-adopt-guli-ragi-for-enhanced-production/) is a scientific way of growing ragi with wider spacing between rows of crops. It is helping revive millets in the tribal-dominated belts of the state like Araku where today the focus is on coffee and pepper vines for enhanced income.
+
+#### Watch [this](https://www.youtube.com/watch?v=XUK5LIy1FnA) Guli Ragi experiment
+
+Tribal farmer [Mahadev](https://www.thehindu.com/news/cities/Visakhapatnam/new-method-of-millet-farming-enthuses-tribal-ryots/article19605527.ece) from Rangasila village of Hukumpeta Mandal of Vizag Dt have got 1.4ton/ per acre through practicing GULI RAGI farming system. In the Crop cutting experiment PD ATMA and ITDA Project Officer and District level agri officers, ADAs and AOs and about 200 farmers.
+
+You can learn more about this methodology in [Telugu](https://www.youtube.com/watch?v=7bUbDWYraVg)
 
 
 
