@@ -57,6 +57,7 @@
   * [Page 2](index/mainstreaming/page-2.md)
   * [Page 3](index/mainstreaming/page-3.md)
 * [Hotline - Directory](index/hotline-directory/README.md)
+  * [Events](index/hotline-directory/events.md)
   * [Seed Banks](index/hotline-directory/seed-banks.md)
   * [Machine Vendors](index/hotline-directory/machine-vendors.md)
   * [Millet FPO](index/hotline-directory/millet-fpo.md)

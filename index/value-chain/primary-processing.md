@@ -60,12 +60,13 @@ There are two grain characteristics that are used to grade grains – size and d
 
 ### List of Enterprises with Millet processing machines&#x20;
 
-1. [AVM Engineering Limited, Tamil Nadu](https://www.indiamart.com/avmengineeringindustries/)
-2. [Perfura Technologies (India) Private Limited](https://www.perfura.co.in/), Coimbatore
-3. [S\&T Engineers](https://www.stengineers.in/), Coimbatore
-4. [Nabitha Engineering, Hyderabad](https://www.storenabhitha.in/profile.html)
-5. [Osaw Agro Industries](https://www.agrosaw.co.in/search.html?ss=millet), Ambala
-6. [Adithi Millet Enterprises, Karnool](https://vc4a.com/ventures/adithi-millets-private-limited/)
+| Name                                                                           | Location                                                          |   |
+| ------------------------------------------------------------------------------ | ----------------------------------------------------------------- | - |
+| [AVM Engineering Limited](https://www.indiamart.com/avmengineeringindustries/) | [Tamil Nadu](https://www.indiamart.com/avmengineeringindustries/) |   |
+| [Perfura Technologies (India) Private Limited](https://www.perfura.co.in/)     | Coimbatore                                                        |   |
+| [S\&T Engineers](https://www.stengineers.in/)                                  | Coimbatore                                                        |   |
+| [Nabitha Engineering](https://www.storenabhitha.in/profile.html)               | [Hyderabad](https://www.storenabhitha.in/profile.html)            |   |
+| [Osaw Agro Industries](https://www.agrosaw.co.in/search.html?ss=millet)        | Ambala                                                            |   |
 
 
 
