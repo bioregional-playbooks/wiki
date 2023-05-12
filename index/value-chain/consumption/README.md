@@ -14,5 +14,12 @@ Here's a list of [resources](https://www.dhan.org/smallmilletfoundation/consumpt
 2. [Adithi Millet Enterprises, Karnool](https://vc4a.com/ventures/adithi-millets-private-limited/)
 3. [Buffaloback](http://www.buffalobackcollective.com/), Bangalore
 4. [Ragihalli Bakery](https://www.facebook.com/Vasudhabakery), Bangalore
-5. [Troogood](https://store.troogood.com/)&#x20;
+5. [Troogood](https://store.troogood.com/) \
+
+
+#### Millet Value Added Products Manufacturers
+
+1. #### [Avani Organics](http://avanniorganics.com/Contact), Kadapa district
+2. #### [FibroFoods, Salem ](https://fibrofoods.com/millet-private-label-manufacturer/)
+3. #### [Basillia Organics Pvt Ltd](https://app.swapcard.com/event/gulfood-2022-1/person/RXZlbnRQZW9wbGVfMTk4Njc4MzQ=), Pune
 
