@@ -69,6 +69,7 @@ There are two grain characteristics that are used to grade grains – size and d
 | [Nabitha Engineering](https://www.storenabhitha.in/profile.html)                | [Hyderabad](https://www.storenabhitha.in/profile.html)            |   |
 | [Osaw Agro Industries](https://www.agrosaw.co.in/search.html?ss=millet)         | Ambala                                                            |   |
 | [Borne Technologies](https://borne-technologies-private-limited.business.site/) | Coimbatore                                                        |   |
+| [Agromech Engineers](https://www.indiamart.com/agromechengineers/)              | Telengana                                                         |   |
 
 
 
