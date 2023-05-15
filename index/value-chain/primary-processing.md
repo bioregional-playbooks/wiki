@@ -51,6 +51,7 @@ There are two grain characteristics that are used to grade grains – size and d
    FarmEasy also sells weeders, sprayers, sieves in addition to the mixie [here](https://gofarmeasy.in/shop/).\
 
 4. Here's a [video series](https://www.youtube.com/playlist?list=PL5x3RzdVZoKOF3pjLbQjYdtNa-PqKlx65) on small millet processing by Dhan Foundation
+5. Here's a [compilation](https://drive.google.com/file/d/1rN\_8ZnKVB7lAmr68G4iSPi2ax9ZirMw-/view) of end to end resources required for Bajra Processing along with relevant schemes (like PMFME) by Ministry of Food Processing Industries.&#x20;
 
 ### For CSOs/ Entrepreneurs
 
