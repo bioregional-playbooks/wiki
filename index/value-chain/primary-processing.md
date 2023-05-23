@@ -78,6 +78,10 @@ There are two grain characteristics that are used to grade grains – size and d
 \
 
 
+{% embed url="https://airtable.com/shrNozvftB73Fc2Wq/tblwuPCNXnaiFJZJf/viwkM7V6fHTqPE10T?blocks=hide" %}
+Millet Processing Machines
+{% endembed %}
+
 ### &#x20;
 
 
