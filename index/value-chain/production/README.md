@@ -20,14 +20,7 @@ Maximum millet cultivation happens in the kharif period, i.e. during the monsoon
 
 **Agrometeorological conditions for different millet types (a snapshot)**
 
-| Type of Millet  | Geographic Conditions                                                                                                        |
-| --------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| Pearl Millet    | Dry climates, marginal soils, Rainfall 200–500 mm \*\*                                                                       |
-| Finger Millet   | Resist higher temperatures and salinity, temperature 11 to 27 ◦C, soil pH of 5 to 8.2 and a medium rainfall environment \*\* |
-| Proso Millet    | Less water, Rainfall less than 600 mm, average temperature 17 ◦C during daytime                                              |
-| Foxtail Millet  | Less water \*\*, short duration \*\*\*                                                                                       |
-| Barnyard Millet | Drought tolerant, rapid maturation rate \*\*                                                                                 |
-| Kodo Millet     | High drought resistance, Good yields, period of 80–135 days \*\*                                                             |
+<table><thead><tr><th width="242">Type of Millet</th><th>Geographic Conditions</th></tr></thead><tbody><tr><td>Pearl Millet</td><td>Dry climates, marginal soils, Rainfall 200–500 mm **</td></tr><tr><td>Finger Millet</td><td>Resist higher temperatures and salinity, temperature 11 to 27 ◦C, soil pH of 5 to 8.2 and a medium rainfall environment **</td></tr><tr><td>Proso Millet</td><td>Less water, Rainfall less than 600 mm, average temperature 17 ◦C during daytime</td></tr><tr><td>Foxtail Millet</td><td>Less water **, short duration ***</td></tr><tr><td>Barnyard Millet</td><td>Drought tolerant, rapid maturation rate **</td></tr><tr><td>Kodo Millet</td><td>High drought resistance, Good yields, period of 80–135 days **</td></tr></tbody></table>
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-04-26 at 9.35.06 AM.png" alt=""><figcaption></figcaption></figure>
 

@@ -62,16 +62,7 @@ There are two grain characteristics that are used to grade grains – size and d
 
 ### List of Enterprises with Millet processing machines&#x20;
 
-| Name                                                                            | Location                                                          |   |
-| ------------------------------------------------------------------------------- | ----------------------------------------------------------------- | - |
-| [AVM Engineering Limited](https://www.indiamart.com/avmengineeringindustries/)  | [Tamil Nadu](https://www.indiamart.com/avmengineeringindustries/) |   |
-| [Perfura Technologies (India) Private Limited](https://www.perfura.co.in/)      | Coimbatore                                                        |   |
-| [S\&T Engineers](https://www.stengineers.in/)                                   | Coimbatore                                                        |   |
-| [Nabitha Engineering](https://www.storenabhitha.in/profile.html)                | [Hyderabad](https://www.storenabhitha.in/profile.html)            |   |
-| [Osaw Agro Industries](https://www.agrosaw.co.in/search.html?ss=millet)         | Ambala                                                            |   |
-| [Borne Technologies](https://borne-technologies-private-limited.business.site/) | Coimbatore                                                        |   |
-| [Agromech Engineers](https://www.indiamart.com/agromechengineers/)              | Coimbatore                                                        |   |
-| [KMS Industries](https://www.kmsindustries.in/pulverizer-machines.html)         | Coimbatore                                                        |   |
+<table><thead><tr><th width="284">Name</th><th>Location</th><th></th></tr></thead><tbody><tr><td><a href="https://www.indiamart.com/avmengineeringindustries/">AVM Engineering Limited</a></td><td><a href="https://www.indiamart.com/avmengineeringindustries/">Tamil Nadu</a></td><td></td></tr><tr><td><a href="https://www.perfura.co.in/">Perfura Technologies (India) Private Limited</a></td><td>Coimbatore</td><td></td></tr><tr><td><a href="https://www.stengineers.in/">S&#x26;T Engineers</a></td><td>Coimbatore</td><td></td></tr><tr><td><a href="https://www.storenabhitha.in/profile.html">Nabitha Engineering</a></td><td><a href="https://www.storenabhitha.in/profile.html">Hyderabad</a></td><td></td></tr><tr><td><a href="https://www.agrosaw.co.in/search.html?ss=millet">Osaw Agro Industries</a></td><td>Ambala</td><td></td></tr><tr><td><a href="https://borne-technologies-private-limited.business.site/">Borne Technologies</a></td><td>Coimbatore</td><td></td></tr><tr><td><a href="https://www.indiamart.com/agromechengineers/">Agromech Engineers</a></td><td>Coimbatore</td><td></td></tr><tr><td><a href="https://www.kmsindustries.in/pulverizer-machines.html">KMS Industries</a> </td><td>Coimbatore</td><td></td></tr></tbody></table>
 
 
 
