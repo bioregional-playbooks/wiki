@@ -69,5 +69,5 @@
 
 ***
 
-* [Success Stories](success-stories.md)
+* [Case studies and success stories](case-studies-and-success-stories.md)
 * [Crop improvement or plant breeding](crop-improvement-or-plant-breeding.md)
