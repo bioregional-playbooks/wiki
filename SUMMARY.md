@@ -69,5 +69,7 @@
 
 ***
 
-* [Case studies and success stories](case-studies-and-success-stories.md)
+* [Case studies and success stories](case-studies-and-success-stories/README.md)
+  * [Individual Farmers](case-studies-and-success-stories/individual-farmers.md)
+  * [Government Programs](case-studies-and-success-stories/government-programs.md)
 * [Crop improvement or plant breeding](crop-improvement-or-plant-breeding.md)
