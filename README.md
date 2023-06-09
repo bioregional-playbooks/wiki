@@ -8,6 +8,8 @@ coverY: -130
 
 
 
+\#millet&#x20;
+
 Millet grains have been discovered in pots used for storing grans and seeds discovered at archaeological sites in present day China, India, Europe and different parts of Africa. Millets have been a good part of the staple diet among many communities across the world. We find millets popping up in literature, sculptures, paintings,  folk songs and religious compositions from different times and geographies. One finds many millet preparations in traditional cuisines surviving to this day in different parts of India, China, Japan, Korea, Russia, Turkey, Russia, Ethiopia, etc.
 
 
