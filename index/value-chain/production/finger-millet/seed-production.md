@@ -6,6 +6,8 @@ description: >-
 
 # Seed Production
 
+Here's a [manual](https://www.millets.res.in/books/Part-1.pdf) describing **Millet Seed Technology, Seed Production, Quality Control & Legal Compliance** for major and minor millets in India from the Indian institute of millets. It describes the origin of the millet crop, basic botany, seed production, standards and quality control for the millet.
+
 The best season for seed production is December – January. Pollination should not coincide with rains for quality and effective seed setting. The temperature of 37°c is favourable for seed setting.
 
 Method of seed production&#x20;
