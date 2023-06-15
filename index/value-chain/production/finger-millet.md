@@ -2,6 +2,8 @@
 
 **FINGER MILLET (Eleusine coracana Gaertn.)**&#x20;
 
+[Here](https://drive.google.com/file/d/12jjHKu2BgCi66L0Ots0jp83cg9wPtekg/view) is a very detailed document on Finger Millet - Crop Production published by ICAR – Indian Institute of Millets Research.
+
 **Varieties**&#x20;
 
 A number of high yielding varieties have been evolved and released for cultivation in different states. The list of latest and popular varieties recommended for different states are given below.&#x20;
