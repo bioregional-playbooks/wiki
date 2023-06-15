@@ -1,6 +1,6 @@
 # Pearl Millet
 
-&#x20;
+Here's a [crop management and seed production manual](http://oar.icrisat.org/4060/) specifically for pearl millet by ICRISAT.
 
 **Preparation of land**&#x20;
 
