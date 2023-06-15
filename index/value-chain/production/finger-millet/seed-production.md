@@ -65,3 +65,5 @@ The cleaned seeds should be sun dried to attain a safe moisture level of 12%. Ca
 Seed standards&#x20;
 
 The percentage of minimum physical purity of certified and foundation seeds should be 97% with a minimum of 75% of germination capacity and 12% of moisture content. The presence of inert matter should not exceed 2.0%.
+
+Here's a [training module](https://edepot.wur.nl/536874) outlining **quality seed production basics for CSO/collectives** by University of Wageningen with ISSD, Ethiopia. Integrated Seed Sector Development (ISSD) Ethiopia has developed this for many seed varieties typically grown in the global south, including finger millet.
