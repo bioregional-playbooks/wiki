@@ -2,6 +2,8 @@
 
 Here's a [crop management and seed production manual](http://oar.icrisat.org/4060/) specifically for pearl millet by ICRISAT.
 
+The National Institute of Agricultural Extension Management, MANAGE has made a [quick video on production of pearl millet seeds](https://www.youtube.com/watch?v=J1yaD1mgA7M).
+
 **Preparation of land**&#x20;
 
 Pearl millet can be grown in different soils. It does not grow well in soils prone to waterlogged conditions. The field should be ploughed once or twice followed by harrowing to create fine tilth&#x20;
