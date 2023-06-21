@@ -7,7 +7,9 @@
 1. Tamil Nadu Co-5, TNAU 151, TNAU 164, TNAU 145, TNAU 202, CO 4, K2, CO 3,CO 2, GPUP 21, GPUP 8
 2. Uttarakhand PRC 1, TNAU 145, 164, 151, CO 4
 3. Karnataka GPUP 8 and GPUP 21, TNAU 145, 164 4 Bihar BR-7, TNAU 164, 145, PR 18
-4. Andhra Pradesh Sagar, Nagarjuna, CO 4, CO 3&#x20;
+4. Andhra Pradesh Sagar, Nagarjuna, CO 4, CO 3
+
+[This](https://epubs.icar.org.in/index.php/IndFarm/article/view/132600/49120) brochure explains the importance of Proso Millet cultivation and provides information on nutritional profile, cultivation, harvesting and post harvesting by ICAR-IIMR researchers; It is useful for SHGs, farmers, CSOs, FPOs.
 
 **Season**&#x20;
 
