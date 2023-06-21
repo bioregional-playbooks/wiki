@@ -61,3 +61,5 @@ The cleaned seeds should be sun dried to attain a safe moisture level of 12%. Se
 Seed standards&#x20;
 
 The percentage of minimum physical purity of certified and foundation seeds should be 97% with a minimum of 75% of germination capacity and 12% of moisture content. The presence of inert matter should not exceed 2.0%.
+
+A [training manual](https://www.wassan.org/wp-content/uploads/2022/03/Millets-Advanced-module-for-seed-production-uday-final-and-latest-22-sept.pdf) regarding various types of millet based seeds production, processing and certification for para seed workers by WASSAN and RRAN. The millets which are covered in this manual are Proso, Finger, Foxtail, Sorghum, Pearl, Kodo, Little, Barnyard Millets. It also covers pest management in case of millets; This manual is useful for trainers, CSOs, SHGs.
