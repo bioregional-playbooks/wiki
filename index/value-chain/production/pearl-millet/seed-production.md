@@ -12,7 +12,7 @@ Method of seed production&#x20;
 
 Pearl millet of Bajra is a highly cross-pollinated crop with 80% of cross-pollination. The crop should be raised in isolation and seeds should be allowed to set by open-pollination. The isolation distance maintained between the varieties is 400 metres for foundation seed and 200 metres for certified seed production.&#x20;
 
-A [video ](https://www.youtube.com/watch?v=7iedxcoaUdw)on seed production on Pearl millet Varieties and Hybrids in English by Madurai Kamaraj University, useful for CSO, NGO, trainer.&#x20;
+Bajra (Pearl millet) [seed production video](https://www.youtube.com/watch?v=J1yaD1mgA7M) in English by MANAGE India; useful for CSOs, NGOs, trainers.
 
 Seed production stages: Breeder seed --> Foundation seed --> Certified seed.
 
@@ -79,3 +79,5 @@ The cleaned and graded seeds can be stored upto 12 months with proper pre-storag
 Seed standards&#x20;
 
 The percentage of minimum physical purity of certified and foundation seeds should be 98% with a minimum of 80% of germination capacity and 5 - 12% of moisture content. The presence of inert matter should not exceed 2.0%.
+
+Another [video ](https://www.youtube.com/watch?v=7iedxcoaUdw)on seed production on Pearl millet Varieties and Hybrids in English by Madurai Kamaraj University, useful for CSOs, NGOs, trainers.
