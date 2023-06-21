@@ -51,7 +51,13 @@ There are two grain characteristics that are used to grade grains – size and d
    FarmEasy also sells weeders, sprayers, sieves in addition to the mixie [here](https://gofarmeasy.in/shop/).\
 
 4. Here's a [video series](https://www.youtube.com/playlist?list=PL5x3RzdVZoKOF3pjLbQjYdtNa-PqKlx65) on small millet processing by Dhan Foundation
-5. Here's a [compilation](https://drive.google.com/file/d/1rN\_8ZnKVB7lAmr68G4iSPi2ax9ZirMw-/view) of end to end resources required for Bajra Processing along with relevant schemes (like PMFME) by Ministry of Food Processing Industries.&#x20;
+5. Here's a [compilation](https://drive.google.com/file/d/1rN\_8ZnKVB7lAmr68G4iSPi2ax9ZirMw-/view) of end to end resources required for Bajra Processing along with relevant schemes (like PMFME) by Ministry of Food Processing Industries.
+6. A [web portal having link to videos](https://cftri.res.in/Millets/) of different millet processing and value addition technologies by CFTRI
+7. A [training manual in English](https://www.dhan.org/smallmilletfoundation/document/Community-scale-Small-Millet-Processing-training-manual.pdf) for Community scale Small Millet Processing, having info on assessing quality, steps involved, tools and machine, pre and post hulling, pest management and basic repair by Dhan Foundation
+8. An [english brochure ](https://farmech.gov.in/New\_Folder/BookletonMilletMachinery.pdf)on millets production, processing and value addition machinery giving info on machinery for various steps in value chain, value added products and address of manufacturers by North Region Farm Machinery Training and Testing Institute, Hisar, Haryana
+9. A [national seminar presentation ppt](https://www.dhan.org/smallmillets2/file/machinery-sm.pdf) on processing and value addition of small millets focusing on primary processing technologies by Dr V. Palanimuthu, Research Engineer & University Head AICRP (PHET), GKVK University of Agricultural Sciences Bangalore
+10. A [english brochure a](https://pub.isae.in/index.php/aet/article/download/1399/1220)bout Millet Processing: Innovative Technologies containing information about primary and secondary processing, baked products by researchers from CIPHET
+11. Millet and Sorghum Technology [Toolkit Catalogue](https://dqo52087pnd5x.cloudfront.net/posters/docs/gatesopenres-204787.pdf) giving details of 11 technologies for sorghum and millets in Sub-Saharan Africa by TAAT Clearinghouse, International Institute of Tropical Agriculture and partners
 
 ### For CSOs/ Entrepreneurs
 
