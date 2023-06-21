@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Millets](README.md)
+* [Ready to go](README.md)
+* [Millets](millets/README.md)
   * [Background](millets/background.md)
   * [Millets - vernacular names and images](millets/millets-vernacular-names-and-images.md)
 
