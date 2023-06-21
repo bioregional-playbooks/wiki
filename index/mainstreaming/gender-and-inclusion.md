@@ -25,3 +25,7 @@ $400,000 will fund a thorough impact evaluation of how the provision of services
 The project will operate as a cluster randomized control trial (RCT) by categorising women’s SHGs into three groups of established SHGs that have existed for more than three years. Group 1 will receive services related to millet processing, group 2 will receive services related to millet processing and value addition, and group 3, the ‘control’ group, will receive no immediate support, but will be part of a planned sequenced roll out.
 
 At the end of the research period Dr Shee and his team will compare the results of the three different groups to determine what is the effect of promoting millet processing and what is the extra benefit of value addition”. He concludes, _“our research will help building the strategy for scaling up successful millet enterprises in women’s collectives”._
+
+A [Digital directory of women entrepreneurs ](https://www.manage.gov.in/publications/digital%20directory-Millet.pdf)in millet across India by MANAGE
+
+A [handbook](https://www.giz.de/en/downloads/giz2022-0011en-accelerating-women-entrepreneurs-handbook.pdf) on Accelerating women entrepreneurs in millet sector by GIZ in English
