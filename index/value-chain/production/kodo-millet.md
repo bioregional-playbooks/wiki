@@ -51,3 +51,5 @@ This is the only serious pest and appears 10 days after sowing resulting in dead
 3. Adopt higher seed rate (1 1⁄2 times the recommended seed rate)
 
 fortnight of July 4. Need based application of insecticides.
+
+[A source](https://www.youtube.com/watch?v=QmC7qy-98Vc) which talks about Kodo millet cultivation, how it can be used for fencing, its nutritional and health benefits. How to identify Kodo millet and use it for cooking; useful for consumers, trainers.&#x20;
