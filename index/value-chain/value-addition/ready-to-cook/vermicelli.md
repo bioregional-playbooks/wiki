@@ -2,7 +2,7 @@
 
 <figure><img src="../../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-A millet vermicelli description and process flow chart, processing technology, byproduct, advantages; useful for FPO, CSO, SHG
+A millet vermicelli description and process flow chart, processing technology, byproduct, advantages by IIMR; useful for FPO, CSO, SHG
 
 <figure><img src="../../../../.gitbook/assets/vermicelli making.png" alt=""><figcaption></figcaption></figure>
 
