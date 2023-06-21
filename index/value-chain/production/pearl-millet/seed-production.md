@@ -24,6 +24,8 @@ Seed selection and sowing&#x20;
 
 Seeds used for seed production should be of good quality certified seeds from an authentic source. Seeds should be healthy with good germination percentage. Use only graded seeds. Remove the seeds affected with Ergot and Sclerotia to prevent primary infection. Seed rate is 3 kg/acre (8 kg/ ha). Add the selected seeds to the salt water (1 kg salt in 10 litres of water) and remove the floating seeds affected by Ergot and Sclerotia. Wash the seeds in fresh water for 2 – 3 times to remove the salt and shade dry. Selected seeds should be treated with Azospirillum @ 250 gms / 3 kg of seeds (600 gms / 8 kg of seeds). Seeds can be sown directly in the main field in ridges and furrows or seedlings can be raised in the nursery and transplanted to the main field.&#x20;
 
+Seed production in [pearl millet](http://eagri.org/eagri50/GPBR112/pdf/lec13.pdf) containing floral biology, land requirement, selection of seed, seed treatment, sowing, nutrient management, weeding, irrigation, harvesting and more by TNAU as part of an online course lecture in English for CSOs.
+
 Nursery preparation and sowing&#x20;
 
 Seeds are sown in the nursery and then the seedlings are transferred to the main field. Select an area of 7.5 cents for raising nursery for one hectare (3 cents for one acre). Plough the plot thoroughly and add farmyard manure or compost @ 750 kg / 7.5 cents (300 kg / 3 cents) and incorporate it into the soil by ploughing. Seeds are sown in raised bed nursery in lines. Cover the seeds with farmyard manure @ 500 kg / 7.5 cents (200 kg / 3 cents). 20 – 25 days old seedlings are then transplanted to the main field. The spacing between the plants should be 45 x 20 cm.&#x20;
