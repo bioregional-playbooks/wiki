@@ -14,7 +14,7 @@ Here's a [video](https://www.youtube.com/watch?v=A0-xBiI4hck\&embeds\_euri=https
 
 **For any user:**&#x20;
 
-1. An [excellent collection](https://milletsodisha.com/recipe) of recipes by the Odisha Millet Mission&#x20;
+1. An [excellent collection](https://milletsodisha.com/recipe) of recipes by the Odisha Millet Mission and [information book on different millet recipes](https://www.millets.res.in/m\_recipes/Millets\_Recipes-A\_Healthy\_choice.pdf) collated by IIMR and NRCS
 2. Here's a [millet recipe book](https://drive.google.com/file/d/1YxRbeVNUQ5\_CNJ7W2-RTrdHGoH319fN-/view) by Welt Hunger Life with diverse recipes like millet pulav, biryani, momos and more.
 3. Here's a book of [smart millet recipes](https://drive.google.com/file/d/1yhcNnvk1PFwcGEMlMWXkPcb2Iykyj2sr/view) by ICRISAT
 4. Here's a book of [millet recipes](https://drive.google.com/file/d/1CuwNgXnqRAlezSk3HFjIQ7ZLV5PAoZDB/view?usp=sharing) by Deccan Development society
@@ -23,3 +23,7 @@ Here's a [video](https://www.youtube.com/watch?v=A0-xBiI4hck\&embeds\_euri=https
 ### Breakfast recipes
 
 Here's a [video](https://www.youtube.com/watch?v=fFBhrkx3ws0) of 5 millet breakfast foods
+
+Instant homemade recipes of different types of millet in a 10min videos by Its Sushma's youtube channel
+
+{% embed url="https://www.youtube.com/watch?v=sx5Ud8vHrPw" %}
