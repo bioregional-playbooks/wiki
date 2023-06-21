@@ -4,37 +4,37 @@
 
 There is a lack of affordable and efficient technologies for community level primary processing of the millets. Existing facilities utilise Paddy processing machines with minimal modifications to process millets leading to poor performance
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-04-26 at 6.49.31 PM.png" alt=""><figcaption><p>Source: Earth360 Pvt Ventures</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-04-26 at 6.49.31 PM.png" alt=""><figcaption><p>Source: Earth360 Pvt Ventures</p></figcaption></figure>
 
 Millets are different from Paddy and Wheat and so should be the machines for their primary processing. Realising the potential for millets, big players in the grain milling industry have entered the market, without much R\&D inputs.
 
 [Earth 360 Pvt Ventures](https://www.earth360.in/earth360.html) develops Scalable, Efficient and Affordable Primary Processing Technologies to Enable Community Level Millet Processing.&#x20;
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-04-26 at 6.52.10 PM.png" alt=""><figcaption><p>Source: Earth 360 Pvt Ventures presentation</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-04-26 at 6.52.10 PM.png" alt=""><figcaption><p>Source: Earth 360 Pvt Ventures presentation</p></figcaption></figure>
 
 This will enable :
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-04-26 at 6.52.15 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-04-26 at 6.52.15 PM.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-04-26 at 6.59.39 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-04-26 at 6.59.39 PM.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 [Grading](https://themillet.org/2019/03/07/importance-of-grading-in-community-scale-small-millet-processing/) allows us to remove the smaller, not full formed, and immature grains. It also allows us to separate out seed quality grains from within the lot providing a selection and thereby improving the seed quality.
 
 There are two grain characteristics that are used to grade grains – size and density. We use an eccentric or vibrating grader to achieve size grading and a destoner to achieve density grading. As one would expect, grading and cleaning go hand in hand – as we remove the extremes of the size and density distribution, we remove material other than grains (also referred to sometimes as MOTG). (source: [https://themillet.org/](https://themillet.org/))
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-04-25 at 4.15.58 PM.png" alt=""><figcaption><p>Commodity flow for millets depending on type (husked/not) (From SELCO)</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-04-25 at 4.15.58 PM.png" alt=""><figcaption><p>Commodity flow for millets depending on type (husked/not) (From SELCO)</p></figcaption></figure>
 
 
 
@@ -68,7 +68,7 @@ There are two grain characteristics that are used to grade grains – size and d
 
 ### List of Enterprises with Millet processing machines&#x20;
 
-<table><thead><tr><th width="284">Name</th><th>Location</th><th></th></tr></thead><tbody><tr><td><a href="https://www.indiamart.com/avmengineeringindustries/">AVM Engineering Limited</a></td><td><a href="https://www.indiamart.com/avmengineeringindustries/">Tamil Nadu</a></td><td></td></tr><tr><td><a href="https://www.perfura.co.in/">Perfura Technologies (India) Private Limited</a></td><td>Coimbatore</td><td></td></tr><tr><td><a href="https://www.stengineers.in/">S&#x26;T Engineers</a></td><td>Coimbatore</td><td></td></tr><tr><td><a href="https://www.storenabhitha.in/profile.html">Nabitha Engineering</a></td><td><a href="https://www.storenabhitha.in/profile.html">Hyderabad</a></td><td></td></tr><tr><td><a href="https://www.agrosaw.co.in/search.html?ss=millet">Osaw Agro Industries</a></td><td>Ambala</td><td></td></tr><tr><td><a href="https://borne-technologies-private-limited.business.site/">Borne Technologies</a></td><td>Coimbatore</td><td></td></tr><tr><td><a href="https://www.indiamart.com/agromechengineers/">Agromech Engineers</a></td><td>Coimbatore</td><td></td></tr><tr><td><a href="https://www.kmsindustries.in/pulverizer-machines.html">KMS Industries</a> </td><td>Coimbatore</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="333">Name</th><th>Location</th><th></th></tr></thead><tbody><tr><td><a href="https://www.indiamart.com/avmengineeringindustries/">AVM Engineering Limited</a></td><td><a href="https://www.indiamart.com/avmengineeringindustries/">Tamil Nadu</a></td><td></td></tr><tr><td><a href="https://www.perfura.co.in/">Perfura Technologies (India) Private Limited</a></td><td>Coimbatore</td><td></td></tr><tr><td><a href="https://www.stengineers.in/">S&#x26;T Engineers</a></td><td>Coimbatore</td><td></td></tr><tr><td><a href="https://www.storenabhitha.in/profile.html">Nabitha Engineering</a></td><td><a href="https://www.storenabhitha.in/profile.html">Hyderabad</a></td><td></td></tr><tr><td><a href="https://www.agrosaw.co.in/search.html?ss=millet">Osaw Agro Industries</a></td><td>Ambala</td><td></td></tr><tr><td><a href="https://borne-technologies-private-limited.business.site/">Borne Technologies</a></td><td>Coimbatore</td><td></td></tr><tr><td><a href="https://www.indiamart.com/agromechengineers/">Agromech Engineers</a></td><td>Coimbatore</td><td></td></tr><tr><td><a href="https://www.kmsindustries.in/pulverizer-machines.html">KMS Industries</a> </td><td>Coimbatore</td><td></td></tr></tbody></table>
 
 
 
@@ -93,7 +93,7 @@ Millet Processing Machines
 
 ### Millet processing at a glance
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-04-18 at 4.03.49 PM.png" alt=""><figcaption><p>Primary processing for foxtail millet, from  <a href="https://kmea.karnataka.gov.in/storage/pdf-files/Reports%20and%20other%20docs/MILLET%20PROCESSING%20PDF%20FINAL%20301220.pdf">https://kmea.karnataka.gov.in/storage/pdf-files/Reports%20and%20other%20docs/MILLET%20PROCESSING%20PDF%20FINAL%20301220.pdf</a></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-04-18 at 4.03.49 PM.png" alt=""><figcaption><p>Primary processing for foxtail millet, from  <a href="https://kmea.karnataka.gov.in/storage/pdf-files/Reports%20and%20other%20docs/MILLET%20PROCESSING%20PDF%20FINAL%20301220.pdf">https://kmea.karnataka.gov.in/storage/pdf-files/Reports%20and%20other%20docs/MILLET%20PROCESSING%20PDF%20FINAL%20301220.pdf</a></p></figcaption></figure>
 
 1. Harvesting & Productization
 2. Grading
