@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Millets](README.md)
+  * [Background](millets/background.md)
 
 ## Index
 
