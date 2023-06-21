@@ -19,7 +19,9 @@
 
 • Mid March-mid May in Bihar and Uttar Pradesh as irrigated catch crop&#x20;
 
-• It is chiefly grown in central and eastern Uttar Pradesh, western Bihar, North Eastern states and Andhra Pradesh&#x20;
+• It is chiefly grown in central and eastern Uttar Pradesh, western Bihar, North Eastern states and Andhra Pradesh.
+
+A [short video in Hindi ](https://www.youtube.com/watch?v=Cs2vGRLzf0I)explaining where Proso millets are found, the climactic and soil conditions for it, their appearance, seed spacing, irrigation requirements, when to cultivate it, uses and benefits for farmers by researchers from Agriculture University, Udaipur on Innovative Farmers YouTube channel; useful for farmers, SHG.&#x20;
 
 **Spacing and seed rate**&#x20;
 
