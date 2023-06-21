@@ -2,7 +2,7 @@
 
 **Proso Millet (Panicum miliaceum L.)**
 
-**Varieties**: A number of varieties with high yield potential have been released for different states. The list of latest and popular varieties recommended for different states are given below Proso millet Sl. No. State Varieties
+**Varieties**: A number of varieties with high yield potential have been released for different states. The list of latest and popular varieties recommended for different states are given below Proso millet Sl. No. State Varieties.
 
 1. Tamil Nadu Co-5, TNAU 151, TNAU 164, TNAU 145, TNAU 202, CO 4, K2, CO 3,CO 2, GPUP 21, GPUP 8
 2. Uttarakhand PRC 1, TNAU 145, 164, 151, CO 4
@@ -54,3 +54,5 @@ Seed rate: 10 kg ha-1 15 kg ha for line sowing -1 for broad casting&#x20;
 Source: [https://www.millets.res.in/technologies.php](https://www.millets.res.in/technologies.php)
 
 This short duration millet variety is widely grown in India. The crop is able to evade drought by its quick maturity. (Reference: Seed Production Techniques for Cereals and Millets by CIKS and RRAN. December 2013.)
+
+A to Z on Proso Millet. A [video](https://www.youtube.com/watch?v=XSLwic28Jo0) in English on Proso millet crop production technology by Assistant Prof of UAS Dharwad.&#x20;
