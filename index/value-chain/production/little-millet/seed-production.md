@@ -8,6 +8,8 @@ description: >-
 
 Seed production can be done during June – July and February – March. The pollination should not coincide with rains for quality and effective seed setting.
 
+A [brochure](https://www.millets.res.in/technologies/brochures/Little\_Millet\_Brochure.pdf) on Little Millets containing details like local names, climate, soil, cropping system, fertilizer, disease and sowing in by IIMR; It is useful for CSOs, farmers, FPOs.
+
 Method of seed production
 
 Little millet is a self-pollinated crop and should be raised in isolation. The isolation distance maintained between the varieties is 3 metres for both foundation and certified seed production to maintain the varietal purity.
