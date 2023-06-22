@@ -8,6 +8,8 @@ description: >-
 
 The crop can be grown upto an altitude of 200 meters. The crop can be grown successfully in areas receiving 750 mm of annual rainfall. Best season for seed production is June - July and February – March. The pollination should not coincide with rains for quality and effective seed setting.
 
+A [brief brochure ](https://justagriculture.in/files/magazine/2021/jan/004%20Foxtail%20Millet.pdf)about information on Foxtail millets like its history, agricultural aspects, various names in vernacular languages, taxonomy and how these millets can be used to ensure nutrition and economic security, from the PJTS Agricultural University. It is useful for FPOs, students.
+
 Method of seed production&#x20;
 
 Foxtail millet is a self-pollinated crop and should be raised in isolation. The isolation distance maintained between the varieties is 3 metres for both foundation and certified seed production to maintain the varietal purity.&#x20;
