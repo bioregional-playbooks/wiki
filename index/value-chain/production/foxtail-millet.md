@@ -9,3 +9,5 @@ Here's a brochure on foxtail millet containing local names and cultivars across 
 {% embed url="https://www.millets.res.in/technologies/brochures/Foxtail_Millet_Brochure.pdf" %}
 Foxtail millet [Brochure](https://www.millets.res.in/technologies/brochures/Foxtail\_Millet\_Brochure.pdf), from ICAR&#x20;
 {% endembed %}
+
+A [video](https://www.youtube.com/watch?v=YSmFpaHMmqc) on Foxtail millet's history, where they can be found, nutritional value, health benefits and how to consume. This video by Dr. Khadar is useful for farmers, SHGs, consumers.
