@@ -24,3 +24,5 @@ Proper storage of millets can help maintain their quality and reduce post-harves
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-04-27 at 10.42.24 AM.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-04-27 at 10.42.36 AM.png" alt=""><figcaption></figcaption></figure>
+
+A detailed [technical guideline](https://naldc.nal.usda.gov/download/CAT87208646/PDF) on principles and practices of seed storage containing info on seed factors that affect storage, effect of storage environment on seed longevity, effect of pest and chemicals on seed deterioration under storage, changes associated with seed deterioration, seed drying, seed storage structures, packaging, monitoring of storage environment and seed condition by USDA

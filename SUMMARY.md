@@ -7,6 +7,8 @@
 
 ## Index
 
+* [Crop regeneration](index/crop-regeneration/README.md)
+  * [Millet regeneration](index/crop-regeneration/millet-regeneration.md)
 * [Value Chain](index/value-chain/README.md)
   * [Production](index/value-chain/production/README.md)
     * [Proso Millet](index/value-chain/production/proso-millet/README.md)
