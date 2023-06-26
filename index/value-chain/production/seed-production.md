@@ -37,3 +37,5 @@ To dry bulk quantities of seeds mechanical seed dryer can be used. Maximum recom
 
 
 [Seed Production Manual for Cereals and Millets by Centre for Indian Knowledge Systems (CIKS)](https://ciks.org/our-publications/download-ebook/54122/)
+
+A [brochure](https://justagriculture.in/files/magazine/2023/january/001%20Millets%20Seed.pdf) on millet seeds with information on Seed Production Technology, Harvesting & Post-Harvest Management, Processing & Storage, useful for SHGs and CSOs.&#x20;
