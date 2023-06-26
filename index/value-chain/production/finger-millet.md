@@ -178,6 +178,8 @@ Other diseases affecting the crop are mottle streak & streak virus, foot rot (Sc
 
 Finger millet attracts several pests of which army worm, cutworm, stemborer, leaf aphid, grasshoppers, grey weevil, shootfly and ear caterpillars are important.&#x20;
 
+[Guidebook](https://cropgenebank.sgrp.cgiar.org/index.php/management-mainmenu-434/stogs-mainmenu-238/millets/finger-millet-guidelines/insects) containing description of various insects and their biology, detection and treatment in finger millet by ICRISAT and CGIAR for trainers.
+
 **Army worms and cut worms**&#x20;
 
 They appear during the early stages and continue upto harvest. The caterpillars cut seedlings at the base during early stage, which appears as if grazed by domestic animal. They are active during night and hide under stones and clods during the day. In later stages of plant growth, these insects act as defoliators. They are cyclic in nature.&#x20;

@@ -1,7 +1,5 @@
 # Storage
 
-
-
 #### [**Millet Value Chain in Storage:**](https://milletadvisor.com/millet-value-chain-analysis/)
 
 Millet storage is an essential part of the millet value chain as it plays a critical role in maintaining the quality of millets and preventing post-harvest losses. Here are some important points to consider for millet storage:
@@ -25,4 +23,11 @@ Proper storage of millets can help maintain their quality and reduce post-harves
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-04-27 at 10.42.36 AM.png" alt=""><figcaption></figcaption></figure>
 
-A detailed [technical guideline](https://naldc.nal.usda.gov/download/CAT87208646/PDF) on principles and practices of seed storage containing info on seed factors that affect storage, effect of storage environment on seed longevity, effect of pest and chemicals on seed deterioration under storage, changes associated with seed deterioration, seed drying, seed storage structures, packaging, monitoring of storage environment and seed condition by USDA
+A detailed [technical guideline](https://naldc.nal.usda.gov/download/CAT87208646/PDF) on principles and practices of seed storage containing info on seed factors that affect storage, effect of storage environment on seed longevity, effect of pest and chemicals on seed deterioration under storage, changes associated with seed deterioration, seed drying, seed storage structures, packaging, monitoring of storage environment and seed condition by USDA.
+
+A research [document ](https://documents.wfp.org/stellent/groups/public/documents/reports/wfp250916.pdf)on Tribal methods for millets preservation and storage in Bastar District of Chhattisgarh by Nishant Ghode.
+
+A training [manual](https://documents.wfp.org/stellent/groups/public/documents/reports/wfp250916.pdf) on post harvest handling and storage of grains containing information on how to deliver training, how to get high quality grain on-farm, maintaining good grain quality in first collection point and warehouse, general principle of grain quality management, standards and insecticides approved by UN WFP; useful for government agencies, NGOs and CSOs.&#x20;
+
+A short [video](https://www.youtube.com/watch?v=Ix7Ue7OOd7s) on shelf life and storage of millets by Dr Khadar, for farmers, FPOs and SHGs.&#x20;
+
