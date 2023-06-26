@@ -6,13 +6,17 @@ description: >-
 
 # Seed Production
 
-The best season for seed production is November – December. The pollination should not coincide with rains. Rains prevent quality and effective seed setting. The temperature of 37o c is favourable for seed setting. Method of seed production Sorghum is often a cross-pollinated crop and seeds are allowed to set by open-pollination in isolation. The crop should be raised in isolation of 200 metres for foundation and 100 metres for certified seed production to maintain the varietal purity. Time isolation is not permitted. The spacing between the plants should be 45 x 15 cm.&#x20;
+The best season for seed production is November – December. The pollination should not coincide with rains. Rains prevent quality and effective seed setting. The temperature of 37o c is favourable for seed setting. Method of seed production Sorghum is often a cross-pollinated crop and seeds are allowed to set by open-pollination in isolation. The crop should be raised in isolation of 200 metres for foundation and 100 metres for certified seed production to maintain the varietal purity. Time isolation is not permitted. The spacing between the plants should be 45 x 15 cm.
+
+A [webpage](https://apeda.gov.in/milletportal/Sorghum.html) on sorghum, brief information on its production and nutrient by APEDA. Useful for CSOs, NGOs, trainers.
 
 Seed production stages: Breeder seed --> Foundation seed --> Certified seed&#x20;
 
 Land selection
 
 Land selection The land selected should be free from volunteer plants and wild grass varieties like Johnson grass, sudan grass and other forage types. The land should not be cultivated with the same crop in the previous season. Land should be fertile with good drainage facility.&#x20;
+
+An [information bulletin](https://www.millets.res.in/farmer/Recommended\_package\_of\_Practices\_Kharif.pdf) on Rabi and Kharif Sorghum package of practises containing information on cropping system, preparation of land, selection of HYV and hybrid seeds, method and time of sowing, seed rate spacing and plant population, nutrient management, weed control, water management, insect, pest and disease management by IIMR. Useful for CSOs, NGOs, trainers.
 
 Seed selection and sowing&#x20;
 
