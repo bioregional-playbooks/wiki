@@ -13,3 +13,5 @@ A video to help you identify different types of millets (in English)
 {% endembed %}
 
 Check out this [6 part webinar](https://www.youtube.com/playlist?list=PLnZpIRzV27RTR7Lsmdsm4MtvXrm2gjpg6) by Revitalising Rainfed Agriculture Network (RRA-N) to Know more about millets.
+
+A presentation [document](http://mcrhrdi.gov.in/splfc2023/week14/MCR%20Orientation%20IIMR.pdf) by Director ICAR-IIMR about millets and its nutritional benefits and general information on production, value addition, success story and production pipeline.&#x20;
